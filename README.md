@@ -1,4 +1,8 @@
 ## Introduction
+**********************************************************************************************
+NOTE (2015-05-06): I initially submitted this for the course beginning in April 2015.  
+I was not able to work on the final project so taking the course over again and resubmitting
+**********************************************************************************************
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
