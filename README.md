@@ -1,6 +1,6 @@
 ## Introduction
 **********************************************************************************************
-NOTE (2015-05-06): I initially submitted this for the course beginning in April 2015.  
+NOTE (2015-06-07): I initially submitted this for the course beginning in April 2015.  
 I was not able to work on the final project so taking the course over again and resubmitting
 **********************************************************************************************
 
