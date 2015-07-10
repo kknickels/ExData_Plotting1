@@ -1,7 +1,8 @@
 ## Introduction
 **********************************************************************************************
-NOTE (2015-06-07): I initially submitted this for the course beginning in April 2015.  
-I was not able to work on the final project so taking the course over again and resubmitting
+NOTE (2015-07-10): I initially submitted this for the courses beginning in April-June 2015.  
+I was not able to work on the final project the first two, then forgot about a quiz on the latest.
+So, retaking the course (again!) and resubmitting (again!)
 **********************************************************************************************
 
 This assignment uses data from
